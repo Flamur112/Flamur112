@@ -1,4 +1,4 @@
-<h2 align="left" style="color:white;">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=flamur112&label=Profile%20views&color=0e75b6&style=flat" alt="flamur112" /> </p>
 
 ###
 
